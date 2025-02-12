@@ -1,0 +1,6 @@
+4
+        database   schema  ...                                       column_types temporary
+0  taxi_pipeline  ny_taxi  ...  [VARCHAR, VARCHAR, BIGINT, TIMESTAMP WITH TIME...     False
+1  taxi_pipeline  ny_taxi  ...  [BIGINT, BIGINT, VARCHAR, VARCHAR, TIMESTAMP W...     False
+2  taxi_pipeline  ny_taxi  ...  [BIGINT, BIGINT, TIMESTAMP WITH TIME ZONE, VAR...     False
+3  taxi_pipeline  ny_taxi  ...  [DOUBLE, DOUBLE, DOUBLE, BIGINT, VARCHAR, DOUB...     False
