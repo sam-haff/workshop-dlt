@@ -1,7 +1,6 @@
 import dlt
 from dlt.sources.helpers.rest_client import RESTClient
-from dlt.sources.helpers.rest_client.paginators import PageNumberPaginator, SinglePagePaginator
-from dlt.sources.filesystem import filesystem
+from dlt.sources.helpers.rest_client.paginators import PageNumberPaginator
 import duckdb
 
 @dlt.resource(name="rides")
